@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 22.4 MB
 
 ---
 
@@ -40,7 +40,7 @@ for (int i = 0; i < k; i++) {
 
 If all assertions pass, then your solution will be  **accepted** .
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,1,2]

@@ -17,7 +17,7 @@ Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting
 
 Given an array  `nums`  containing  `n`  distinct numbers in the range  `[0, n]` , return  *the only number in the range that is missing from the array.*
 
-OriginalC++ **Example 1:**
+**Example 1:**
 
 **Input:**  nums = [3,0,1]
 
